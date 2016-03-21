@@ -1,0 +1,23 @@
+{
+  "name": "bigab",
+  "version": "0.0.1",
+  "description": "Just reserving this before someone else does",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "me"
+  ],
+  "author": "BigAB <bigab@live.ca> (bigab.net)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BigAB/bigab.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BigAB/bigab/issues"
+  },
+  "homepage": "https://github.com/BigAB/bigab#readme"
+}
